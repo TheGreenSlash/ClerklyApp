@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|c:\\users\\dell\\documents\\clerklyapp\\clerkly\\clerklyui2\\createpartyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\createpartyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\selectcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\selectcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\gatewayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\gatewayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\receiptvoucherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\receiptvoucherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\logintocompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\logintocompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\receiptvoucherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\receiptvoucherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\createpartyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\createpartyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\selectcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\selectcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI2.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI2.csproj|solutionrelative:clerklyui2\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklylibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|solutionrelative:clerklylibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklylibrary\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|solutionrelative:clerklylibrary\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklylibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|solutionrelative:clerklylibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklylibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|solutionrelative:clerklylibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\createinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\createinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklylibrary\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DA84FE-DF0E-40EB-94F2-1BA800BBDBD0}|ClerklyLibrary\\ClerklyLibrary.csproj|solutionrelative:clerklylibrary\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\clerklyui2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B4F34E9-F47D-4A01-A215-4C39B3E95591}|ClerklyUI2\\ClerklyUI.csproj|solutionrelative:clerklyui2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceiptVoucherForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\ReceiptVoucherForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\ReceiptVoucherForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\ReceiptVoucherForm.cs",
+              "RelativeToolTip": "ClerklyUI2\\ReceiptVoucherForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:07:49.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GatewayForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\GatewayForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\GatewayForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\GatewayForm.cs",
+              "RelativeToolTip": "ClerklyUI2\\GatewayForm.cs",
+              "ViewState": "AQIAAFMAAACAAAAAAAAuwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:44:31.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginToCompanyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\LoginToCompanyForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\LoginToCompanyForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\LoginToCompanyForm.cs",
+              "RelativeToolTip": "ClerklyUI2\\LoginToCompanyForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:57:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePartyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreatePartyForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\CreatePartyForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreatePartyForm.cs",
+              "RelativeToolTip": "ClerklyUI2\\CreatePartyForm.cs",
+              "ViewState": "AQIAAHcAAAAANTMzMzMTwFYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:15:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectCompanyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\SelectCompanyForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\SelectCompanyForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\SelectCompanyForm.cs",
+              "RelativeToolTip": "ClerklyUI2\\SelectCompanyForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:30:04.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiptVoucherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\ReceiptVoucherForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\ReceiptVoucherForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\ReceiptVoucherForm.cs [Design]",
+              "RelativeToolTip": "ClerklyUI2\\ReceiptVoucherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:09:05.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePartyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreatePartyForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\CreatePartyForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreatePartyForm.cs [Design]",
+              "RelativeToolTip": "ClerklyUI2\\CreatePartyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:15:37.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectCompanyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\SelectCompanyForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\SelectCompanyForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\SelectCompanyForm.cs [Design]",
+              "RelativeToolTip": "ClerklyUI2\\SelectCompanyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:12:49.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateCompany.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\CreateCompany.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateCompany.cs",
+              "RelativeToolTip": "ClerklyUI2\\CreateCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:06:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\DataAccess\\SqlConnector.cs",
+              "RelativeDocumentMoniker": "ClerklyLibrary\\DataAccess\\SqlConnector.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\DataAccess\\SqlConnector.cs",
+              "RelativeToolTip": "ClerklyLibrary\\DataAccess\\SqlConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:42:33.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\Models\\CompanyModel.cs",
+              "RelativeDocumentMoniker": "ClerklyLibrary\\Models\\CompanyModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\Models\\CompanyModel.cs",
+              "RelativeToolTip": "ClerklyLibrary\\Models\\CompanyModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:20:14.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\GlobalConfig.cs",
+              "RelativeDocumentMoniker": "ClerklyLibrary\\GlobalConfig.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\GlobalConfig.cs",
+              "RelativeToolTip": "ClerklyLibrary\\GlobalConfig.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:40:28.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\Program.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\Program.cs",
+              "RelativeToolTip": "ClerklyUI2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:47:21.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCompany.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateCompany.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\CreateCompany.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateCompany.cs [Design]",
+              "RelativeToolTip": "ClerklyUI2\\CreateCompany.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:15:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateCompany.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\CreateCompany.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateCompany.cs",
+              "RelativeToolTip": "ClerklyUI2\\CreateCompany.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:36:21.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeDocumentMoniker": "ClerklyLibrary\\DataAccess\\IDataConnection.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeToolTip": "ClerklyLibrary\\DataAccess\\IDataConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:17:36.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "ClerklyLibrary\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyLibrary\\Models\\ItemModel.cs",
+              "RelativeToolTip": "ClerklyLibrary\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:42:50.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateInventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateInventoryForm.cs",
+              "RelativeDocumentMoniker": "ClerklyUI2\\CreateInventoryForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\CreateInventoryForm.cs [Design]",
+              "RelativeToolTip": "ClerklyUI2\\CreateInventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:41:29.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\App.config",
+              "RelativeDocumentMoniker": "ClerklyUI2\\App.config",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\ClerklyApp\\Clerkly\\ClerklyUI2\\App.config",
+              "RelativeToolTip": "ClerklyUI2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-02T07:01:39.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\bin\Debug\net8.0\ClerklyLibrary.deps.json
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\bin\Debug\net8.0\ClerklyLibrary.dll
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\bin\Debug\net8.0\ClerklyLibrary.pdb
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.AssemblyInfo.cs
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.dll
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\refint\ClerklyLibrary.dll
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.pdb
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ref\ClerklyLibrary.dll
+C:\Users\Dell\Documents\ClerklyApp\Clerkly\ClerklyLibrary\obj\Debug\net8.0\ClerklyLibrary.csproj.AssemblyReference.cache
